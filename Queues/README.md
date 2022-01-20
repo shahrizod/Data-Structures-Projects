@@ -1,0 +1,1 @@
+This program primarily focuses on the use of queues in order to create an Intersection Simulator with multiple lanes and different lights, such as a turning light in addition the traditional red, yellow, green traffic light.
