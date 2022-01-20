@@ -1,0 +1,1 @@
+This program utilizes trees, in this case a ternary tree structure, in order to simulate going through a story. This program also can read and write to .txt files in order to allow importing of stories and populating them into trees accordingly if the .txt follows a certain format.
