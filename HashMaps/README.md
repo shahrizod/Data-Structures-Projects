@@ -1,0 +1,1 @@
+This is a Storage Manager program which uses hashmaps to quickly and effectively store and retrieve Storage objects in a hash table, emulating a storage locker facility. The classes are also serializable so that the previous state of the storage locker can be saved and restored.
