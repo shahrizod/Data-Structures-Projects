@@ -1,0 +1,1 @@
+I created a Presentation Manager program which vastly uses linked lists in order to strew together a bunch of Slide objects as values in a node for a SlideList class, aka a presentation which can then be manipulated by running the program through the PresentationManager class.
