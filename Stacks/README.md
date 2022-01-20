@@ -1,0 +1,1 @@
+This is a ShipLoader program which primarily uses the Stack data structure along with some values for each piece of cargo restricting the way that it can be used to create an exciting program simulating loading a ship.
